@@ -1,0 +1,20 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: solution.py
+    visible: true
+    learner_created: false
+  - name: hangman.py
+    visible: true
+    learner_created: true
+  - name: hang_man.py
+    visible: true
+    learner_created: true
+status: Solved
+record: 10
+post_submission_on_open: true
