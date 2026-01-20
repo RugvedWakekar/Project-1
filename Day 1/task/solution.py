@@ -1,17 +1,11 @@
-# 1. New Line Escape Sequence
+name = "Jack"
+print(name)
 
-# Learn to use `\n` to add a new line to strings.
+name = "Angela"
+print(name)
 
-print("Hello")
-print("Word")
+# print(len(input("What is your name?")))
 
-# is the same as:
-
-print("Hello\nWorld")
-
-# 2. String Concatenation
-# Use the plus symbol `+` to concatenate different strings together
-
-print("My name is" + " " + "Angela")
-
-# will output: "My name is Angela"
+username = input("What is your name?")
+length = len(username)
+print(length)
