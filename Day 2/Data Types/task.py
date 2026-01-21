@@ -1,5 +1,5 @@
 #print(len(69))
-
+len(123)
 #subscripting
 #print("Hello"[-1])
 
