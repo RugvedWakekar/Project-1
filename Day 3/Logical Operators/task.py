@@ -18,7 +18,7 @@ if height >= 120:
         bill += 0
         print("Go grandma, It's your last ride")
 
-    wants_photo = input("Do you want a photo taken? Y or N. ")
+    wants_photo = input("Do you want a photo taken? Y or N. ").lower()
     if wants_photo == "Y":
         bill += 3
     if age <= 45 or age >= 55:
